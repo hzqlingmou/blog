@@ -3,9 +3,9 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: http://47.108.91.92/upload/%E6%90%9C%E5%9B%BE%E7%A5%9E%E5%99%A8_1711198708604.jpg
+heroImage: http://47.108.91.92/upload/032922512756_0Image_1711193922211.ico
 heroText: EscapedSpark逸燧博客
-tagline: 我思故我在，一念定乾坤  [本博客为替代，前往主播客](http://47.108.91.92)
+tagline: 我思故我在，一念定乾坤
 heroFullScreen: true
 projects:
   - icon: project
@@ -14,9 +14,9 @@ projects:
     link: https://your.project.link
 
   - icon: link
-    name: link name
+    name: 主博客
     desc: link detailed description
-    link: https://link.address
+    link: http://47.108.91.92/
 
   - icon: book
     name: book name
