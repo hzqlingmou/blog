@@ -1,6 +1,6 @@
 ---
 home: true
-layout: 主页
+layout: BlogHome
 icon: home
 bgImage: http://47.108.91.92/upload/%E6%90%9C%E5%9B%BE%E7%A5%9E%E5%99%A8_1706452797710.png
 bgImageDark: http://47.108.91.92/upload/%E6%90%9C%E5%9B%BE%E7%A5%9E%E5%99%A8_1711198415537.png
