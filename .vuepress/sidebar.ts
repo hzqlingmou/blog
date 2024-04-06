@@ -4,9 +4,9 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "ACG",
+      text: "涩涩",
       icon: "book",
-      prefix: "acg/",
+      prefix: "setu/",
       children: "structure",
     },
     {
