@@ -25,7 +25,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Default footer",
+  footer: "Powered by EscaWorkTeam",
 
   displayFooter: true,
 
