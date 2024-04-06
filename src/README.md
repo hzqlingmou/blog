@@ -4,8 +4,8 @@ layout: BlogHome
 icon: home
 bgImage: http://47.108.91.92/upload/%E6%90%9C%E5%9B%BE%E7%A5%9E%E5%99%A8_1706452797710.png
 bgImageDark: http://47.108.91.92/upload/%E6%90%9C%E5%9B%BE%E7%A5%9E%E5%99%A8_1711198415537.png
-title: EscapedSpark逸燧博客
-heroText: 逸燧🌠
+title: 主页
+heroText: 逸燧🌠博客
 heroFullScreen: true
 tagline: 「我思故我在，一念定乾坤」
 projects:
@@ -38,7 +38,7 @@ projects:
 ---
 
 
-footer: EscapedSpark逸燧博客
+footer: 「我思故我在，一念定乾坤」
 ---
 
 
