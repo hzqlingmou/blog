@@ -37,17 +37,8 @@ projects:
 
 ---
 
-  - icon: friend
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: custom item
-    desc: Detailed description of this custom item
-    link: https://link.to.your.friend
-
-footer: customize your footer text
+footer: EscapedSpark逸燧博客
 ---
 
 
