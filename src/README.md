@@ -12,7 +12,7 @@ projects:
   - icon: link
     name: 主博客
     desc: 主人～请填满我🥵
-    link: https://ys.mihoyo.com/
+    link: http://47.108.91.92/
 
   - icon: link
     name: Yenai-Plugin
