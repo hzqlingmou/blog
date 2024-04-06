@@ -1,6 +1,11 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-
+export default {
+  theme: hopeTheme({
+    fullscreen: true,
+    print: false,
+  }),
+};
 export default defineUserConfig({
   base: "/",
 
