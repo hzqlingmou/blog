@@ -22,7 +22,7 @@ projects:
   - icon: friend
     name: XxxX
     desc: 寒暄姐姐🤤
-    link: https://yunzai.icu/
+    link: https://qsign.icu/
 
   - icon: link
     name: Yunzai-Bot索引库
@@ -38,4 +38,6 @@ projects:
     name: 加入QQ交流群
     desc: 成为我们的会员！
     link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=PGHA8LRHRtOxGCKotgQ-V1N8SmQB2aFX&authKey=OaJN5%2Brq3OFSAZCIU%2F5%2BP0peqMtteAZ9lRRvrYZ0d9zm97bYg6TeNkSRTnEaPVmh&noverify=0&group_code=920749244
+
+
 ---
