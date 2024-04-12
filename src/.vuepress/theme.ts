@@ -40,7 +40,7 @@ export default hopeTheme({
     avatar: "https://q1.qlogo.cn/g?b=qq&s=0&nk=3139373986",
     intro: "/",
     medias: {
-      /3Baidu: "https://mr.baidu.com/r/19wFkMt0Gt2?f=cp&u=4d151be3e49afc29",
+      //3Baidu: "https://mr.baidu.com/r/19wFkMt0Gt2?f=cp&u=4d151be3e49afc29",
       //BiliBili: "https://b23.tv/8sOJIMw",
 //      Discord: "https://discord.gg/VxqGvm5FKE",
 //      Email: "http://2833598659@qq.com",
