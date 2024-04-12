@@ -1,3 +1,14 @@
+---
+
+category:
+  - 教程
+
+tag:
+  - trss
+  - Linux云服务器
+  - 云崽
+
+---
 # 云崽trss安装部署教程
 
 ### [trss官方文档](https://netlify.trss.me)
