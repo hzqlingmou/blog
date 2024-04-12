@@ -37,14 +37,14 @@ export default hopeTheme({
   blog: {
     roundAvatar: true,
     hotReload: true,
-    avatar: "https://q1.qlogo.cn/g?b=qq&s=0&nk=3139373986",
+    avatar: "https://pi.escaped.icu/1.png",
     intro: "/",
     medias: {
       //3Baidu: "https://mr.baidu.com/r/19wFkMt0Gt2?f=cp&u=4d151be3e49afc29",
       //BiliBili: "https://b23.tv/8sOJIMw",
 //      Discord: "https://discord.gg/VxqGvm5FKE",
 //      Email: "http://2833598659@qq.com",
-      GitHub: "https://github.com/hzalingmou",
+      GitHub: "https://github.com/hzqlingmou",
       QQ: "https://qm.qq.com/q/k0d3bHfSCs",
     },
   },
