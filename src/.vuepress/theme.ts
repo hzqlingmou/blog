@@ -38,6 +38,7 @@ export default hopeTheme({
     roundAvatar: true,
     hotReload: true,
     avatar: "https://pi.escaped.icu/1.png",
+    description: "「梦在前方,路在脚下」",
     intro: "/",
     medias: {
       //3Baidu: "https://mr.baidu.com/r/19wFkMt0Gt2?f=cp&u=4d151be3e49afc29",
@@ -51,7 +52,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
+      "/demo/encrypt.html": ["eeeccc"],
     },
   },
 
