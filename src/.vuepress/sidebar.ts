@@ -4,15 +4,9 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "涩涩",
+      text: "trss云崽教程",
       icon: "book",
-      prefix: "setu/",
-      children: "structure",
-    },
-    {
-      text: "文章",
-      icon: "book",
-      prefix: "docs/",
+      prefix: "trss-yunzai/",
       children: "structure",
     },
   ],
