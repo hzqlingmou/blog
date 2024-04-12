@@ -17,9 +17,9 @@ export default hopeTheme({
     iconAssets: "iconfont", // 指定图标选项
   // iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.png",
+  logo: "https://pi.escaped.icu/favicon.ico",
 
-  repo: "Denfenglai/blog",
+  repo: "hzqlingmou/blog",
 
   docsDir: "src",
 
