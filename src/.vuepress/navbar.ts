@@ -4,8 +4,8 @@ export default navbar([
   "/",
   
   {
-    text: "Yunzai-Bot索引库",
+    text: "主博客",
     icon: "book",
-    link: "https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index",
+    link: "https://escaped.icu",
   },
 ]);
