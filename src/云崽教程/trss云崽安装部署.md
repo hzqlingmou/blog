@@ -20,27 +20,27 @@ bash <(curl -L gitee.com/TimeRainStarSky/TRSS_AllBot/raw/main/Install-Docker.sh)
 
 #示例
 
-![IMG_20240330_191148.jpg](http://47.108.91.92/upload/IMG_20240330_191148.jpg)
+![step1](http://47.108.91.92/upload/IMG_20240330_191148.jpg)
 
-![IMG_20240330_191407.jpg](http://47.108.91.92/upload/IMG_20240330_191407.jpg)
+![step2](http://47.108.91.92/upload/IMG_20240330_191407.jpg)
 
 2.输入 `tsab`启动容器，选择 `TRSS-Yunzai`安装启动
 
 #示例
 
-![IMG_20240330_191727.jpg](http://47.108.91.92/upload/IMG_20240330_191727.jpg)
+![step3](http://47.108.91.92/upload/IMG_20240330_191727.jpg)
 
 3.选择插件管理安装 `qsigner`插件
 
 #示例
 
-![retouch_2024033020111050.jpg](http://47.108.91.92/upload/retouch_2024033020111050.jpg)
+![step4](http://47.108.91.92/upload/retouch_2024033020111050.jpg)
 
 4.选择QQ版本 `8.9.78`
 
 #示例
 
-![IMG_20240330_201242.jpg](http://47.108.91.92/upload/IMG_20240330_201242.jpg)
+![step5](http://47.108.91.92/upload/IMG_20240330_201242.jpg)
 
 ```
 tips:info
@@ -49,9 +49,9 @@ go-cqhttp选择否即可（爱折腾的可以自己研究）
 
 5.启动！
 
-![retouch_2024033020245356.jpg](http://47.108.91.92/upload/retouch_2024033020245356.jpg)
+![step6](http://47.108.91.92/upload/retouch_2024033020245356.jpg)
 
-```halo
+```
 tips:success
 看不懂的在B站上找视频教程，差距不大
 ```
