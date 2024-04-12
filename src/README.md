@@ -2,10 +2,10 @@
 home: true
 layout: BlogHome
 icon: home
-bgImage: /img/picture/6.jpg
-bgImageDark: /img/picture/7.jpg
-title: 等风来
-heroText: 等风来
+bgImage: https://pi.escaped.icu/mo/01.png
+bgImageDark: https://pi.escaped.icu/mo/02.png
+title: 主页
+heroText: 逸🌠燧
 heroFullScreen: true
 tagline: 「我思故我在,一念定乾坤」
 projects:
