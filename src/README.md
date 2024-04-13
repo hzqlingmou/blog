@@ -18,7 +18,12 @@ projects:
     name: trss云崽教程
     desc: 您的保姆已上线
     link: /trss-yunzai/
-
+    
+  - icon: friend
+    name: ✈️推广
+    desc: 好耶😆是免费的梯子🪜
+    link:  https://xmfvpn.com/auth/register?code=N89g
+    
   - icon: friend
     name: XxxX
     desc: 寒暄姐姐🤤
