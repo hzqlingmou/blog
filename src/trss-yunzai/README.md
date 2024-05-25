@@ -12,12 +12,9 @@ tag:
 # 云崽trss安装部署教程
 
 ### [trss官方文档](https://netlify.trss.me)
-
-```
-tips:warn
+[!TIP]
 本教程仅适用于Linux系统及运行Linux系统的(云)服务器
 请勿私自将本教程发至国内任何流量平台
-```
 
 1. 安装trss管理脚本
 
