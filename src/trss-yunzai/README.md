@@ -12,7 +12,7 @@ tag:
 # 云崽trss安装部署教程
 
 ### [trss官方文档](https://netlify.trss.me)
-> [!TIP]
+> [!NOTE]
 > 本教程仅适用于Linux系统及运行Linux系统的(云)服务器
 > 请勿私自将本教程发至国内任何流量平台
 
@@ -50,31 +50,20 @@ bash <(curl -L gitee.com/TimeRainStarSky/TRSS_AllBot/raw/main/Install-Docker.sh)
 
 ![step5](https://pi.escaped.icu/upload/trss-yunzai/IMG_20240330_201242.jpg)
 
-```
-tips:info
-go-cqhttp选择否即可（爱折腾的可以自己研究）
-```
+> [!TIP]
+> go-cqhttp选择否即可（爱折腾的可以自己研究）
 
 5.启动！
 
 ![step6](https://pi.escaped.icu/upload/trss-yunzai/retouch_2024033020245356.jpg)
 
-```
-tips:success
-看不懂的在B站上找视频教程，差距不大
-```
+> [!TIP]
+> 看不懂的在B站上找视频教程，差距不大
+
 
 
 # 回家的路
 
 站主群
 
-[QQ群聊流星湾](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=17T3YO8wuFIUHHTTtMedJ6UwQPl68O4Z&authKey=6RzFWMr5VpW9K4u0JlVZ89FrLz1L2kCX74E%2BL3%2FgHB%2FZJQoYqrCYqo0TaWTbwvBW&noverify=0&group_code=920749244)
-
-寒暄姐姐の群
-
-[群聊XDM](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BEr4SLzKYUyZ4e9FJ9ZnTzqLb3dJBdN_&authKey=mcpsjvKJ8wwdlcWUyxCVSEpzltToW8Qu1GaFUbHtjoYkhw6ykZMbYXWGyGUcAgDL&noverify=0&group_code=554593924)
-
-食欲哥哥の群
-
-[群聊📱😯👍](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=xInlw7_SwyWO3ZYWvdR4mvXdGYXxppol&authKey=a43IwLSVhu0If8GwJJ%2FvmDVQSwuPYGwlzKvw7qzMsttO%2B5ZeJfbxkK9GTKsE6s%2Fp&noverify=0&group_code=659945190)
+[QQ群聊6️⃣🌟🥣](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=17T3YO8wuFIUHHTTtMedJ6UwQPl68O4Z&authKey=6RzFWMr5VpW9K4u0JlVZ89FrLz1L2kCX74E%2BL3%2FgHB%2FZJQoYqrCYqo0TaWTbwvBW&noverify=0&group_code=920749244)
