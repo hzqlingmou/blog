@@ -4,9 +4,9 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "trss云崽教程",
+      text: "Pixiv涩图",
       icon: "book",
-      prefix: "trss-yunzai/",
+      prefix: "/pixiv/",
       children: "structure",
     },
   ],
