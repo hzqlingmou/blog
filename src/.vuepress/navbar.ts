@@ -4,7 +4,7 @@ export default navbar([
   "/",
   
   {
-    text: "主博客",
+    text: "博客/Blog",
     icon: "book",
     link: "https://escaped.icu",
   },
