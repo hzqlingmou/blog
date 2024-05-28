@@ -24,6 +24,7 @@ export default defineUserConfig({
   docsDir: "src",
 
   navbar: [
+  "/",
   {
     text: "主页/Home",
     icon: "lightclub",
@@ -36,6 +37,7 @@ export default defineUserConfig({
   },
   ],
   sidebar: [
+  "/",
   {
       text: "Pixiv涩图",
       icon: "book",
@@ -50,6 +52,8 @@ export default defineUserConfig({
 
   // 博客相关
   blog: {
+    roundAvatar: true,
+    hotReload: true,
     description: "不要让你的意志击穿了你的欲望",
     intro: "https://escaped.icu",
     avatar: "https:/pi.escaped.icu/1.png",
