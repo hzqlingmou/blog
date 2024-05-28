@@ -33,8 +33,8 @@ export default defineUserConfig({
   {
     text: "博客/Blog",
     icon: "book",
-    link: "https://escaped.icu",
-  },
+    link: "https://escaped.icy",
+  }
   ],
   sidebar: [
   "/",
@@ -56,7 +56,6 @@ export default defineUserConfig({
     hotReload: true,
     description: "不要让你的意志击穿了你的欲望",
     intro: "https://escaped.icu",
-    avatar: "https:/pi.escaped.icu/1.png",
     medias: {
       QQ: "https://qm.qq.com/q/JDf3REVSMM",
       Gitee: "https://gitee.com/escaped-spark",
