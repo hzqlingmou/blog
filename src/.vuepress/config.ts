@@ -17,7 +17,7 @@ export default defineUserConfig({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://pi.escaped.icu/favicon.ico",
+  logo: "https://pi.escaped.icu/1.png",
 
   repo: "escapedspark/setu",
 
