@@ -51,7 +51,7 @@ export default defineUserConfig({
   // 博客相关
   blog: {
     description: "不要让你的意志击穿了你的欲望",
-    intro: "https://escaped.icu/1.png",
+    intro: "https://pi.escaped.icu/1.png",
     medias: {
       QQ: "https://qm.qq.com/q/JDf3REVSMM",
       Gitee: "https://gitee.com/escaped-spark",
