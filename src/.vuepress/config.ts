@@ -5,8 +5,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "EscapedSpark逸燧博客",
-  description: "逸燧博客",
+  title: "EscapedSpark-Share",
+  description: "逸燧の涩图站",
 
   theme,
 
