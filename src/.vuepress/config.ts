@@ -26,11 +26,6 @@ export default defineUserConfig({
   navbar: [
   "/",
   {
-    text: "主页/Home",
-    icon: "lightclub",
-    link: "/",
-  },
-  {
     text: "博客/Blog",
     icon: "book",
     link: "https://escaped.icy",
