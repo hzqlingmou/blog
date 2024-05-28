@@ -14,35 +14,5 @@ projects:
     desc: 主人🥵～快填满我🥵～
     link: https://escaped.icu/
 
-  - icon: project
-    name: trss云崽教程
-    desc: 您的保姆已上线
-    link: /trss-yunzai/
-    
-  - icon: friend
-    name: ✈️推广
-    desc: 好耶😆是免费的梯子🪜
-    link:  https://xmfvpn.com/auth/register?code=N89g
-    
-  - icon: friend
-    name: XxxX
-    desc: 寒暄姐姐🤤
-    link: https://qsign.icu/
-
-  - icon: link
-    name: Yunzai-Bot索引库
-    desc: 收集 Yunzai-Bot 的相关内容
-    link: https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index
-
-  - icon: friend
-    name: TRSS-Script
-    desc: 食欲哥哥的脚本，好用就完事了
-    link: https://trss.me/
-
-  - icon: /logo/QQ.png
-    name: 加入QQ交流群
-    desc: 成为我们的会员！
-    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=PGHA8LRHRtOxGCKotgQ-V1N8SmQB2aFX&authKey=OaJN5%2Brq3OFSAZCIU%2F5%2BP0peqMtteAZ9lRRvrYZ0d9zm97bYg6TeNkSRTnEaPVmh&noverify=0&group_code=920749244
-
-
+  
 ---
