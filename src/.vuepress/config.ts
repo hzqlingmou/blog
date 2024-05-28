@@ -4,7 +4,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 export default defineUserConfig({
 
   lang: "zh-CN",
-  title: "Esca-Plugin文档",
+  title: "逸燧涩图分享站",
   description: "「我思故我在,一念定乾坤」",
 
   theme: hopeTheme({
@@ -19,14 +19,14 @@ export default defineUserConfig({
 
   logo: "https://pi.escaped.icu/1.png",
 
-  repo: "hzqlingmou/esca-plugin",
+  repo: "escapedspark/setu",
 
   docsDir: "src",
 
   navbar: [
   {
     text: "主页/Home",
-    icon: "lightlub",
+    icon: "lightclub",
     link: "/",
   },
   {
