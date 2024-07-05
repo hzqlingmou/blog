@@ -64,6 +64,4 @@ bash <(curl -L gitee.com/TimeRainStarSky/TRSS_AllBot/raw/main/Install-Docker.sh)
 
 # 回家的路
 
-站主群
-
-[QQ群聊6️⃣🌟🥣](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=17T3YO8wuFIUHHTTtMedJ6UwQPl68O4Z&authKey=6RzFWMr5VpW9K4u0JlVZ89FrLz1L2kCX74E%2BL3%2FgHB%2FZJQoYqrCYqo0TaWTbwvBW&noverify=0&group_code=920749244)
+[QQ群聊6️⃣🌟🥣](https://qm.qq.com/q/28WyOKMa3i)
