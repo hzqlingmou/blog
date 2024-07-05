@@ -10,19 +10,14 @@ heroFullScreen: true
 tagline: 「我思故我在,一念定乾坤」
 projects:
   - icon: project
-    name: 博客主地址
-    desc: 主人🥵～快填满我🥵～
-    link: https://escaped.icu/
+    name: 团队博客
+    desc: 朝天工作室的博客
+    link: https://escateam.icu/
 
   - icon: project
     name: trss云崽教程
     desc: 您的保姆已上线
     link: /trss-yunzai/
-    
-  - icon: friend
-    name: ✈️推广
-    desc: 好耶😆是免费的梯子🪜
-    link:  https://xmfvpn.com/auth/register?code=N89g
     
   - icon: friend
     name: XxxX
@@ -41,8 +36,8 @@ projects:
 
   - icon: /logo/QQ.png
     name: 加入QQ交流群
-    desc: 成为我们的会员！
-    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=PGHA8LRHRtOxGCKotgQ-V1N8SmQB2aFX&authKey=OaJN5%2Brq3OFSAZCIU%2F5%2BP0peqMtteAZ9lRRvrYZ0d9zm97bYg6TeNkSRTnEaPVmh&noverify=0&group_code=920749244
+    desc: 代挂云崽，交流学习
+    link: https://qm.qq.com/q/28WyOKMa3i
 
 
 ---
