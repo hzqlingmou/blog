@@ -52,7 +52,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["eeeccc"],
+      "/hide.html": ["eeeccc"],
     },
   },
 
