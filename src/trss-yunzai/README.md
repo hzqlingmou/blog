@@ -60,6 +60,7 @@ bash <(curl -L gitee.com/TimeRainStarSky/TRSS_AllBot/raw/main/Install-Docker.sh)
 > [!note]
 > 看不懂的在B站上找视频教程，差距不大
 
+![test](http://pi.escaped.icu/1.png)
 
 
 # 回家的路
