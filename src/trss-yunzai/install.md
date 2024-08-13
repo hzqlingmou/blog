@@ -58,10 +58,10 @@ bash <(curl -L gitee.com/TimeRainStarSky/TRSS_AllBot/raw/main/Install-Docker.sh)
 ![step6](https://pi.escaped.icu/upload/trss-yunzai/retouch_2024033020245356.jpg)
 
 > [!note]
-> 看不懂的在B站上找视频教程，差距不大
-
-
+> 看不懂的自己在B站上找视频教程，差距不大
 
 # 回家的路
 
 [QQ群聊6️⃣🌟🥣](https://qm.qq.com/q/28WyOKMa3i)
+
+<Share colorful />
