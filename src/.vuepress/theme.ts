@@ -46,6 +46,18 @@ export default hopeTheme({
         },
       ],
     },
+    {
+      text: "Ubuntu系列教程",
+      icon: "book",
+      link: "/ubuntu/",
+      collapsible: true,
+      children: [
+        {
+          text: "磁盘扩容",
+          link: "/ubuntu/pan",
+        },
+      ],
+    },
   ],
 
   footer: '<a href="https://icp.gov.moe/?keyword=20242430" target="_blank">萌ICP备20242430号</a>',
