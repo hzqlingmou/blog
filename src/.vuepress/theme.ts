@@ -12,7 +12,7 @@ export default hopeTheme({
     url: "https://escaped.icu/",
   },
 
-    iconAssets: "iconfont", // 指定图标选项
+  iconAssets: "iconfont", // 指定图标选项
   // iconAssets: "fontawesome-with-brands",
 
   logo: "https://pi.escaped.icu/favicon.ico",
@@ -58,12 +58,118 @@ export default hopeTheme({
         },
       ],
     },
+    {
+      text: "c++从入门到入土",
+      icon: "book",
+      link: "/cpp/",
+      collapsible: true,
+      children: [
+        {
+          text: "01输入输出&变量",
+          link: "/cpp/1",
+        },
+        {
+          text: "02程序的选择结构",
+          link: "/cpp/2",
+        },
+        {
+          text: "洛谷训练题及满分参考答案",
+          collapsible: true,
+          children: [
+            {
+              text: "b2004对齐输出",
+              link: "/cpp/luogu/b2004",
+            },
+            {
+              text: "b2005字符三角形",
+              link: "/cpp/luogu/b2005",
+            },
+            {
+              text: "b2006地球人口承载力估计",
+              link: "/cpp/luogu/b2006",
+            },
+            {
+              text: "b2007A + B 问题",
+              link: "/cpp/luogu/b2007",
+            },
+            {
+              text: "b2008计算 (a+b)×c 的值",
+              link: "/cpp/luogu/b2008",
+            },
+            {
+              text: "b2009计算 (a+b)/c 的值",
+              link: "/cpp/luogu/b2009",
+            },
+            {
+              text: "b2010带余除法",
+              link: "/cpp/luogu/b2010",
+            },
+            {
+              text: "b2011计算分数的浮点数值",
+              link: "/cpp/luogu/b2011",
+            },
+            {
+              text: "b2012甲流疫情死亡率",
+              link: "/cpp/luogu/b2012",
+            },
+            {
+              text: "b2013温度表达转化",
+              link: "/cpp/luogu/b2013",
+            },
+            {
+              text: "b2017打印 ASCII 码",
+              link: "/cpp/luogu/b2017",
+            },
+            {
+              text: "b2035判断数正负",
+              link: "/cpp/luogu/b2035",
+            },
+            {
+              text: "b2036输出绝对值",
+              link: "/cpp/luogu/b2036",
+            },
+            {
+              text: "b2037奇偶数判断",
+              link: "/cpp/luogu/b2037",
+            },
+            {
+              text: "b2038奇偶 ASCII 值判断",
+              link: "/cpp/luogu/b2038",
+            },
+            {
+              text: "b2039整数大小比较",
+              link: "/cpp/luogu/b2039",
+            },
+            {
+              text: "b2040判断是否为两位数",
+              link: "/cpp/luogu/b2040",
+            },
+            {
+              text: "b2041收集瓶盖赢大奖",
+              link: "/cpp/luogu/b2041",
+            },
+            {
+              text: "b2047分段函数",
+              link: "/cpp/luogu/b2047",
+            },
+            {
+              text: "b2048计算邮资",
+              link: "/cpp/luogu/b2048",
+            },
+            {
+              text: "b2049最大数输出",
+              link: "/cpp/luogu/b2049",
+            }
+          ]
+        }
+      ]
+    }
   ],
 
   footer: '<a href="https://icp.gov.moe/?keyword=20242430" target="_blank">萌ICP备20242430号</a>',
 
   copyright: 'Powered By EscaWorkTeam © 2023-present 朝天工作室',
-  
+
   // 显示脚页
   displayFooter: true,
 
@@ -76,8 +182,8 @@ export default hopeTheme({
     medias: {
       //3Baidu: "https://mr.baidu.com/r/19wFkMt0Gt2?f=cp&u=4d151be3e49afc29",
       //BiliBili: "https://b23.tv/8sOJIMw",
-//      Discord: "https://discord.gg/VxqGvm5FKE",
-//      Email: "http://2833598659@qq.com",
+      //      Discord: "https://discord.gg/VxqGvm5FKE",
+      //      Email: "http://2833598659@qq.com",
       GitHub: "https://github.com/hzqlingmou",
       QQ: "https://qm.qq.com/q/k0d3bHfSCs",
     },
@@ -100,51 +206,51 @@ export default hopeTheme({
     blog: true,
     /** 启动评论服务 */
     comment: {
-        provider: "Waline",
-        serverURL: "https://waline.escateam.icu/",
-      },
+      provider: "Waline",
+      serverURL: "https://waline.escateam.icu/",
+    },
     components: {
-        // 组件
-        components: [
-          "BiliBili",
-          "VPCard",
-        ],
-      },
+      // 组件
+      components: [
+        "BiliBili",
+        "VPCard",
+      ],
+    },
     copyCode: {
-        showInMobile: true //在移动端启用复制代码
-       }, 
-      mdEnhance: {
-        /* MdEnhance 插件配置
-         * https://theme-hope.vuejs.press/zh/config/plugins/md-enhance.html 
-         */
-        hint: true,	       // 提示容器
-        figure: true,      // 启用 figure 图片描述
-        imgLazyload: true, // 启用图片懒加载
-        imgMark: true,     // 启用图片标记
-        imgSize: true,     // 启用图片大小
-        codetabs: true,    // 多行代码块
-        mark: true,        //标记        
-        align: true,    // 自定义对齐
-        tasklist: true, // 任务列表
-        attrs: true,    // 属性支持
-        demo: true,     // 代码演示
-        include: true,  // 导入文件
-        footnote: true, // 启用脚注
-        sub: true,	    // 启用下角标
-        sup: true,	    // 启用上角标
-        tabs: true,     // 启用选项卡
-        vPre: true,     // 启用 v-pre 容器
-        alert: true,    //启用GFM警告
-        spoiler: true,
-        chart: true,
-        markmap: true,
-        flowchart: true,
+      showInMobile: true //在移动端启用复制代码
+    },
+    mdEnhance: {
+      /* MdEnhance 插件配置
+       * https://theme-hope.vuejs.press/zh/config/plugins/md-enhance.html 
+       */
+      hint: true,	       // 提示容器
+      figure: true,      // 启用 figure 图片描述
+      imgLazyload: true, // 启用图片懒加载
+      imgMark: true,     // 启用图片标记
+      imgSize: true,     // 启用图片大小
+      codetabs: true,    // 多行代码块
+      mark: true,        //标记        
+      align: true,    // 自定义对齐
+      tasklist: true, // 任务列表
+      attrs: true,    // 属性支持
+      demo: true,     // 代码演示
+      include: true,  // 导入文件
+      footnote: true, // 启用脚注
+      sub: true,	    // 启用下角标
+      sup: true,	    // 启用上角标
+      tabs: true,     // 启用选项卡
+      vPre: true,     // 启用 v-pre 容器
+      alert: true,    //启用GFM警告
+      spoiler: true,
+      chart: true,
+      markmap: true,
+      flowchart: true,
       playground: {
         presets: ["ts", "vue"],
       },
-      
+
       stylize: [
-      // 样式化
+        // 样式化
         {
           matcher: "Recommended",
           replacer: ({ tag }) => {
@@ -153,11 +259,10 @@ export default hopeTheme({
                 tag: "Badge",
                 attrs: { type: "tip" },
                 content: "Recommended",
-            };
+              };
           },
         },
       ],
     },
   },
 });
-
