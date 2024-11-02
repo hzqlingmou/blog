@@ -159,6 +159,14 @@ export default hopeTheme({
             {
               text: "b2049最大数输出",
               link: "/cpp/luogu/b2049",
+            },
+            {
+              text: "b2050三角形判断",
+              link: "/cpp/luogu/b2050",
+            },
+            {
+              text: "b2051点和正方形的关系",
+              link: "/cpp/luogu/b2051",
             }
           ]
         }
