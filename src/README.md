@@ -38,7 +38,7 @@ projects:
     desc: 食欲哥哥的脚本，好用就完事了
     link: https://trss.me/
 
-  - icon: /logo/QQ.png
+  - icon: brands:qq
     name: 加入QQ交流群
     desc: 不可以涩涩！
     link: https://qm.qq.com/q/28WyOKMa3i
