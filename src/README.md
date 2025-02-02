@@ -11,14 +11,19 @@ tagline: 「我思故我在,一念定乾坤」
 projects:
   - icon: project
     name: 团队博客
-    desc: 朝天工作室的博客
+    desc: 朝天工作室博客
     link: https://escateam.icu/
 
-  - icon: project
-    name: trss云崽教程
-    desc: 您的保姆已上线
-    link: /trss-yunzai/
+  - icon: cloud
+    name: 芙芙云
+    desc: 廉价实惠的云服务器！
+    link: https://fufuidc.cn/
     
+  - icon: cloud
+    name: 朝天云
+    desc: 一机传三代，人走机还在
+    link: https://cloud.escateam.icu/
+
   - icon: friend
     name: XxxX
     desc: 寒暄姐姐🤤
@@ -36,7 +41,7 @@ projects:
 
   - icon: /logo/QQ.png
     name: 加入QQ交流群
-    desc: 代挂云崽，交流学习
+    desc: 不可以涩涩！
     link: https://qm.qq.com/q/28WyOKMa3i
 
 
