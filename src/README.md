@@ -2,8 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-bgImage: https://pi.escaped.icu/mo/01.png
-bgImageDark: https://pi.escaped.icu/mo/02.png
+bgImage: https://api.escateam.icu/img/index.php
 title: 主页
 heroText: 逸🌠燧
 heroFullScreen: true
