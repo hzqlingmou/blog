@@ -11,25 +11,27 @@
     "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.18",
-    "@waline/client": "^3.3.2",
+    "@vuepress/bundler-vite": "2.0.0-rc.19",
+    "@waline/client": "^3.5.1",
+    "flow": "^0.2.3",
+    "highlighter": "^0.1.0",
     "markmap-toolbar": "^0.17.2",
-    "sass-embedded": "^1.80.6",
-    "vue": "^3.5.12",
-    "vuepress": "2.0.0-rc.18",
-    "vuepress-plugin-components": "2.0.0-rc.59",
-    "vuepress-theme-hope": "2.0.0-rc.59"
+    "sandpack-vue3": "^3.1.12",
+    "sass-embedded": "^1.83.4",
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.19",
+    "vuepress-plugin-components": "2.0.0-rc.71",
+    "vuepress-theme-hope": "2.0.0-rc.71"
   },
   "dependencies": {
     "@vue/repl": "^4.4.3",
-    "@vuepress/plugin-markdown-image": "2.0.0-rc.30",
-    "@vuepress/plugin-revealjs": "2.0.0-rc.47",
+    "@vuepress/plugin-markdown-image": "2.0.0-rc.74",
+    "@vuepress/plugin-revealjs": "2.0.0-rc.74",
     "chart": "^0.1.2",
-    "chart.js": "^4.4.6",
+    "chart.js": "^4.4.7",
     "echarts": "^5.6.0",
     "flowchart": "^1.2.0",
     "flowchart.ts": "^3.0.1",
-    "highlighter": "^0.1.0",
     "markmap-lib": "^0.17.2",
     "mermaid": "^11.4.1"
   }

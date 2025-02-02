@@ -8,7 +8,7 @@ heroText: 逸🌠燧
 heroFullScreen: true
 tagline: 「我思故我在,一念定乾坤」
 projects:
-  - icon: project
+  - icon: folder
     name: 团队博客
     desc: 朝天工作室博客
     link: https://escateam.icu/
@@ -23,7 +23,7 @@ projects:
     desc: 一机传三代，人走机还在
     link: https://cloud.escateam.icu/
 
-  - icon: friend
+  - icon: handshake
     name: XxxX
     desc: 寒暄姐姐🤤
     link: https://qsign.icu/
@@ -33,7 +33,7 @@ projects:
     desc: 收集 Yunzai-Bot 的相关内容
     link: https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index
 
-  - icon: friend
+  - icon: handshake
     name: TRSS-Script
     desc: 食欲哥哥的脚本，好用就完事了
     link: https://trss.me/
