@@ -41,12 +41,13 @@ export default hopeTheme({
     "/",
     {
       text: "Ubuntu系列教程",
-      icon: "book",
+      icon: "ubuntu",
       link: "/ubuntu/",
       collapsible: true,
       children: [
         {
           text: "磁盘扩容",
+          icon: "ubuntu",
           link: "/ubuntu/pan",
         },
       ],
@@ -262,7 +263,7 @@ export default hopeTheme({
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
-      alert: true,
+      hint: true,
       footnote: true,
       align: true,
       attrs: true,
